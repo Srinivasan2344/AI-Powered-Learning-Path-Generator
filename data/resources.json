@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Introduction to Machine Learning",
+        "content": "Machine learning basics and concepts."
+    },
+    {
+        "title": "Statistics for Machine Learning",
+        "content": "Probability and statistics fundamentals."
+    },
+    {
+        "title": "Python Programming Basics",
+        "content": "Learn variables, loops and functions."
+
+    }
+]
