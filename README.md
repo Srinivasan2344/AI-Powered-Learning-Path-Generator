@@ -2,6 +2,7 @@
 
 # Project Overview
 
+
 AI-Powered Learning Platform is a FastAPI-based application that provides personalized learning recommendations, knowledge gap analysis, quiz recommendations, engagement prediction, semantic search, content quality evaluation, and AI performance monitoring.
 
 The platform helps students improve their learning experience through intelligent recommendations and analytics.
